@@ -9,7 +9,8 @@ public class MathPractice {
 
         System.out.println("Name: " + name + "Class Name: " + className);
         System.out.println("-------------------");
-        
+        System.out.println("-------------------");
+
 
     }
 }
