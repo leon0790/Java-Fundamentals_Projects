@@ -7,7 +7,7 @@ public class Task2 {
     public static void main(String[] args) {
 
         int a, b, c;
-        System.out.println("Ixtiyoriq uch xonali butun turdagi son kiriting!");
+        System.out.println("Ixtiyoriq uikki xonali butun turdagi son kiriting!");
 
         //step-1.
         System.out.println("a = ");
